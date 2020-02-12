@@ -1,0 +1,4 @@
+Route for vehicle 3:
+ 0 Load(0) ->  1 Load(250) ->  13 Load(320) ->  0 Load(320)
+Distance of the route: 3000m
+Load of the route: 320

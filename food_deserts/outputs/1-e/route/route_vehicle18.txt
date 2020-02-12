@@ -1,0 +1,4 @@
+Route for vehicle 18:
+ 0 Load(0) ->  184 Load(8) ->  236 Load(9) ->  240 Load(10) ->  230 Load(12) ->  27 Load(82) ->  248 Load(102) ->  249 Load(132) ->  253 Load(177) ->  254 Load(227) ->  231 Load(232) ->  30 Load(532) ->  0 Load(532)
+Distance of the route: 12244m
+Load of the route: 532

@@ -1,0 +1,4 @@
+Route for vehicle 16:
+ 0 Load(0) ->  174 Load(0) ->  165 Load(100) ->  133 Load(130) ->  161 Load(180) ->  6 Load(380) ->  194 Load(389) ->  77 Load(409) ->  47 Load(444) ->  48 Load(474) ->  129 Load(489) ->  185 Load(494) ->  31 Load(499) ->  1 Load(529) ->  160 Load(539) ->  154 Load(541) ->  0 Load(541)
+Distance of the route: 18053m
+Load of the route: 541

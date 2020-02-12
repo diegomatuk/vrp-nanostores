@@ -1,0 +1,4 @@
+Route for vehicle 9:
+ 0 Load(0) ->  66 Load(100) ->  147 Load(160) ->  164 Load(260) ->  139 Load(310) ->  12 Load(360) ->  113 Load(410) ->  163 Load(480) ->  126 Load(510) ->  219 Load(550) ->  0 Load(550)
+Distance of the route: 11195m
+Load of the route: 550

@@ -1,0 +1,4 @@
+Route for vehicle 71:
+ 0 Load(0) ->  0 Load(0)
+Distance of the route: 0m
+Load of the route: 0

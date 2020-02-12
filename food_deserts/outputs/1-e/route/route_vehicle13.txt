@@ -1,0 +1,4 @@
+Route for vehicle 13:
+ 0 Load(0) ->  145 Load(40) ->  69 Load(90) ->  152 Load(140) ->  86 Load(145) ->  106 Load(150) ->  81 Load(160) ->  158 Load(180) ->  155 Load(270) ->  29 Load(290) ->  229 Load(310) ->  110 Load(360) ->  93 Load(370) ->  94 Load(405) ->  188 Load(440) ->  91 Load(480) ->  153 Load(550) ->  0 Load(550)
+Distance of the route: 19756m
+Load of the route: 550

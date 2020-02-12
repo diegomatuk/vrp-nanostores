@@ -1,0 +1,4 @@
+Route for vehicle 14:
+ 0 Load(0) ->  224 Load(20) ->  85 Load(50) ->  107 Load(70) ->  105 Load(90) ->  102 Load(108) ->  101 Load(308) ->  104 Load(338) ->  103 Load(398) ->  92 Load(548) ->  0 Load(548)
+Distance of the route: 14333m
+Load of the route: 548

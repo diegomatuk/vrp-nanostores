@@ -1,0 +1,4 @@
+Route for vehicle 2:
+ 0 Load(0) ->  5 Load(2304) ->  2 Load(3428) ->  0 Load(3428)
+Distance of the route: 18551m
+Load of the route: 3428

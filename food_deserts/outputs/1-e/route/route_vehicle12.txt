@@ -1,0 +1,4 @@
+Route for vehicle 12:
+ 0 Load(0) ->  65 Load(40) ->  168 Load(45) ->  8 Load(55) ->  115 Load(115) ->  10 Load(195) ->  182 Load(275) ->  11 Load(345) ->  9 Load(395) ->  207 Load(425) ->  150 Load(465) ->  128 Load(515) ->  0 Load(515)
+Distance of the route: 13851m
+Load of the route: 515

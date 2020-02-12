@@ -1,0 +1,4 @@
+Route for vehicle 0:
+ 0 Load(0) ->  6 Load(1940) ->  0 Load(1940)
+Distance of the route: 11678m
+Load of the route: 1940

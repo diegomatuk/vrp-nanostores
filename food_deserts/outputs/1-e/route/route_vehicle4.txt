@@ -1,0 +1,4 @@
+Route for vehicle 4:
+ 0 Load(0) ->  71 Load(80) ->  46 Load(110) ->  183 Load(410) ->  149 Load(490) ->  146 Load(520) ->  21 Load(530) ->  197 Load(548) ->  0 Load(548)
+Distance of the route: 9993m
+Load of the route: 548

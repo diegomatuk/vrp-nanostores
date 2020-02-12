@@ -1,0 +1,4 @@
+Route for vehicle 0:
+ 0 Load(0) ->  23 Load(60) ->  22 Load(110) ->  21 Load(190) ->  20 Load(340) ->  19 Load(420) ->  18 Load(450) ->  17 Load(480) ->  15 Load(530) ->  8 Load(540) ->  7 Load(540) ->  0 Load(540)
+Distance of the route: 11000m
+Load of the route: 540

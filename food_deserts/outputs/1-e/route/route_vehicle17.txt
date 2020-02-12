@@ -1,0 +1,4 @@
+Route for vehicle 17:
+ 0 Load(0) ->  233 Load(28) ->  28 Load(48) ->  189 Load(68) ->  190 Load(92) ->  247 Load(113) ->  191 Load(173) ->  192 Load(233) ->  223 Load(293) ->  232 Load(323) ->  237 Load(325) ->  238 Load(330) ->  245 Load(370) ->  2 Load(400) ->  241 Load(440) ->  243 Load(450) ->  242 Load(465) ->  246 Load(483) ->  157 Load(488) ->  244 Load(498) ->  156 Load(503) ->  159 Load(513) ->  187 Load(518) ->  239 Load(521) ->  234 Load(525) ->  0 Load(525)
+Distance of the route: 25253m
+Load of the route: 525
